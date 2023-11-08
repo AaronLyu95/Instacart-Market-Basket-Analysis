@@ -1,4 +1,7 @@
 pandas
 numpy
 seaborn
+google-cloud-bigquery
+db-dtypes
+google-cloud-bigquery-storage
 -e .

@@ -112,6 +112,8 @@ venv.bak/
 
 # Folfer
 log/
+data/
+keys/
 
 # Spyder project settings
 .spyderproject
@@ -130,3 +132,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Credentials
+plucky-mile-327121-255163f80b63.json
